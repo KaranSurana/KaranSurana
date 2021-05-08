@@ -10,12 +10,16 @@
 
 <br />
 
-Hi, I'm [Karan Surana](mailto:techtrends288@gmail.com), a passionate self-taught Full Stack web developer and a competitive programmer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Karan Surana](mailto:techtrends288@gmail.com), an enthusiastic self-taught web developer and a competitive programmer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+<img align="right" alt="Karan's Mail" width="400px" height="400px" src="https://user-images.githubusercontent.com/70429983/117526732-9ad53380-afe4-11eb-9ab9-c6bec2077376.png"/>
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Mail](mailto:techtrends288@gmail.com);
 - 📝 [Resume](https://drive.google.com/file/d/1tLZp4DDlNh-nj2NKqa6lD9zPWkQwiW94/view?usp=sharing)
+
+
+
 
 **Languages and Tools:**  
 
@@ -30,7 +34,4 @@ Hi, I'm [Karan Surana](mailto:techtrends288@gmail.com), a passionate self-taught
 
 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
 
