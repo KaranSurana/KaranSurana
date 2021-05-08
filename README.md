@@ -12,7 +12,7 @@
 
 Hi, I'm [Karan Surana](mailto:techtrends288@gmail.com), an enthusiastic self-taught web developer and a competitive programmer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<img align="right" alt="Karan's Mail" width="400px" height="400px" src="https://user-images.githubusercontent.com/70429983/117526732-9ad53380-afe4-11eb-9ab9-c6bec2077376.png"/>
+<img align="right" alt="Karan's Mail" width="350px" height="350px" src="https://user-images.githubusercontent.com/70429983/117526732-9ad53380-afe4-11eb-9ab9-c6bec2077376.png"/>
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Mail](mailto:techtrends288@gmail.com);
