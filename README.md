@@ -33,5 +33,7 @@ Hi, I'm [Karan Surana](mailto:techtrends288@gmail.com), an enthusiastic self-tau
 <br>
 
 📈 My GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=gotham" alt="KaranSurana" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSurana&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="KaranSurana" />
+
 
