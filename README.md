@@ -29,12 +29,18 @@ Hi, I'm [Karan Surana](mailto:techtrends288@gmail.com), an enthusiastic self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br>
+## 📖  What I am currently learning
+<p align="left">
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+</p>
 
+## 📈 My GitHub Stats
 <br>
-<br>
-<br><br><br><br><br>
-📈 My GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=gotham" alt="KaranSurana" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSurana&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="KaranSurana" />
+<a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=gotham" alt="KaranSurana" /> </a>
+<a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSurana&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="195" alt="KaranSurana" /> </a>
 
 
