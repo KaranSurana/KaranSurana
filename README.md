@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/karan-surana-1025b0153/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:techtrends288@gmail.com">
+<a href="mailto:karansurana23@gmail.com">
   <img align="left" alt="Karan's Mail" width="26px" height="26px" src="https://img.icons8.com/fluent/100/000000/gmail.png" />
 </a>
 
@@ -10,12 +10,12 @@
 
 <br />
 
-Hi, I'm [Karan Surana](mailto:techtrends288@gmail.com), an enthusiastic self-taught web developer and a competitive programmer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
+Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-taught web developer and a competitive programmer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
 
 <img align="right" alt="Karan's Mail" width="300px" height="300px" src="https://user-images.githubusercontent.com/70429983/117530358-60769100-affa-11eb-98c6-6e4089ca6c5b.gif"/>
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Mail](mailto:techtrends288@gmail.com);
+- 📫 How to reach me: [Mail](mailto:karansurana23@gmail.com);
 - 📝 [Resume](https://drive.google.com/file/d/1tLZp4DDlNh-nj2NKqa6lD9zPWkQwiW94/view?usp=sharing);
 
 
