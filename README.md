@@ -42,5 +42,6 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 <br>
 <a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=gotham" alt="KaranSurana" /> </a>
 <a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSurana&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="195" alt="KaranSurana" /> </a>
-
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranSurana&theme=black-ice" alt="KaranSurana"  />
 
