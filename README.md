@@ -30,7 +30,7 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br>
-## 📖  What I am currently learning
+## 📖  What I am currently learning?
 
 <p align="left">
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
