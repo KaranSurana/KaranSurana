@@ -39,6 +39,9 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 </p>
 
+## 👨‍💻 Technical Heap
+
+
 ## 📈 My GitHub Stats!
 
 <a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=radical" height="175" alt="KaranSurana" /> </a>
