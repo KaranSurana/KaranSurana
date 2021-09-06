@@ -45,7 +45,7 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 ## 📈 My GitHub Stats!
 
 <a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=radical" height="175" alt="KaranSurana" /> </a>
-<a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSurana&count_private=true&layout=compact&theme=radical" height="175" alt="KaranSurana" /> </a>
+<a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSurana&count_private=true&layout=compact&theme=algolia" height="175" alt="KaranSurana" /> </a>
 <br>
 
 
@@ -65,4 +65,4 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 
 ## 🔥 Streak Stats!
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranSurana&theme=radical" alt="KaranSurana"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranSurana&theme=algolia" alt="KaranSurana"/>
