@@ -39,6 +39,16 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 </p>
 
+
+
+
+## 📈 My GitHub Stats!
+
+<a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=radical" height="175" alt="KaranSurana" /> </a>
+<a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSurana&count_private=true&layout=compact&theme=radical" height="175" alt="KaranSurana" /> </a>
+<br>
+
+
 ## 👨‍💻 Technical Heap
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=32px></span>
@@ -52,14 +62,6 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height=32px>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height=32px>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height=32px>
-
-
-
-## 📈 My GitHub Stats!
-
-<a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api?username=KaranSurana&show_icons=true&theme=radical" height="175" alt="KaranSurana" /> </a>
-<a href="https://github.com/KaranSurana/KaranSurana/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSurana&count_private=true&layout=compact&theme=radical" height="175" alt="KaranSurana" /> </a>
-<br>
 
 ## 🔥 Streak Stats!
 
