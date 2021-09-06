@@ -63,4 +63,4 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 
 ## 🔥 Streak Stats!
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranSurana&theme=radical" alt="KaranSurana"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranSurana&theme=radical" alt="KaranSurana"/>
