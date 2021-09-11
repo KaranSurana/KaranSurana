@@ -40,7 +40,7 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 </p>
 
 
-
+<details>
 
 ## 📈 My GitHub Stats!
 
