@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/karan-surana-1025b0153/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 <a href="mailto:karansurana23@gmail.com">
   <img align="left" alt="Karan's Mail" width="26px" height="26px" src="https://img.icons8.com/fluent/100/000000/gmail.png" />
