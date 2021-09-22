@@ -3,7 +3,7 @@
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 <a href="mailto:karansurana23@gmail.com">
-  <img align="left" alt="Karan's Mail" width="26px" height="26px" src="https://img.icons8.com/fluent/100/000000/gmail.png" />
+  <img align="left" alt="Karan's Mail" width="26px" height="26px" src="https://img.icons8.com/fluent/100/000000/gmail.png"/>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=KaranSurana.KaranSurana)
