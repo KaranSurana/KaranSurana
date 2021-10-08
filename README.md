@@ -17,7 +17,7 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 - 💬 Ask me about anything, I am happy to help;
 - 🌐 [KaranSurana.tech](http://www.karansurana.tech);
 - 📫 How to reach me: [Mail](mailto:karansurana23@gmail.com);
-- 📝 [Resume](https://drive.google.com/file/d/1C0OVU81DMqNzknbC3fFgnHzRxUR0Hl9H/view?usp=sharing);
+- 📝 [Resume](https://drive.google.com/file/d/1n9FXi6gLcU3IpiEKGulEvHe0VRmatgqj/view);
 
 
 
