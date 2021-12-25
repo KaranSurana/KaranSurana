@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-taught MERN stack developer and a competitive programmer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
+Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-taught Full stack blockchain developer and a competitive programmer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
 
 <img align="right" alt="Karan's Mail" width="300px" height="300px" src="https://user-images.githubusercontent.com/70429983/117530358-60769100-affa-11eb-98c6-6e4089ca6c5b.gif"/>
 
