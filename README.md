@@ -10,14 +10,12 @@
 
 <br />
 
-Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-taught Full stack blockchain developer and a competitive programmer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
+Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic Full stack & blockchain developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
 
 <img align="right" alt="Karan's Mail" width="300px" height="300px" src="https://user-images.githubusercontent.com/70429983/117530358-60769100-affa-11eb-98c6-6e4089ca6c5b.gif"/>
 
 - 💬 Ask me about anything, I am happy to help;
-- 🌐 [KaranSurana.me](http://www.karansurana.me);
 - 📫 How to reach me: [Mail](mailto:karansurana23@gmail.com);
-- 📝 [Resume](https://drive.google.com/file/d/1n9FXi6gLcU3IpiEKGulEvHe0VRmatgqj/view);
 
 
 
@@ -50,7 +48,7 @@ Hi, I'm [Karan Surana](mailto:karansurana23@gmail.com), an enthusiastic self-tau
 <br>
 
 
-## 👨‍💻 Technical Heap
+## 👨‍💻 Technical Stack
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=32px></span>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=32px>
